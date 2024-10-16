@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="brows" type="id" />
+    <item name="urltext" type="id" />
+    <item name="phonetext" type="id" />
+    <item name="call" type="id" />
+    <item name="log" type="id" />
+    <item name="gallery" type="id" />
+    <item name="camera" type="id" />
+    <item name="alarm" type="id" />
+    <item name="textView5" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textView" type="id" />
+    <item name="textView2" type="id" />
+    <item name="textView3" type="id" />
+    <item name="textView4" type="id" />
+</resources>

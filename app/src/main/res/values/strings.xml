@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">22012011012_MAD_Prac3</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="forgot_password" />
+    <string name="loginbtn" />
+    <string name="alarm_" />
+    <string name="alarm" />
+    <string name="login" />
+    <string name="web_url" />
+    <string name="enter_url_link" />
+    <string name="brows" />
+    <string name="phone_no" />
+    <string name="enter_phone_no" />
+    <string name="call" />
+    <string name="call_log_" />
+    <string name="call_log" />
+    <string name="gallery_" />
+    <string name="gallery" />
+    <string name="camera_" />
+    <string name="camera" />
+    <string name="email_id" />
+    <string name="password" />
+    <string name="enter_your_password" />
+    <string name="enter_your_email" />
+</resources>
